@@ -3,6 +3,8 @@ Added again something
 New added code changes in file.
 To be pushed on remote.
 
+Another fix to Bug#1234
+
 Fixing bug 1234
 
 Feature1
